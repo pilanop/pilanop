@@ -1,9 +1,9 @@
 Sure, here's a possible GitHub profile markdown with a cool design:
 
-👋 Hello there! I'm Khalid Mohammed 👨‍💻
+👋 Hello there! I'm Khalid 👨‍💻
 =========================================
 
-💻 Full-Stack Developer
+💻 Developer
 -----------------------
 
 Passionate about developing web applications and creating seamless user experiences. I'm currently enhancing my skills in Full-Stack development at ALX Learning SE.
