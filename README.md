@@ -12,7 +12,7 @@ Passionate about developing web applications and creating seamless user experien
 --------------------------
 
 *   **Languages**: JavaScript, C
-*   **Tools**: Git, VS Code, Slack
+*   **Tools**: Git, Vim, Ubuntu, Slack
 
 🔭 Currently working on
 -----------------------
