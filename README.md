@@ -1,4 +1,4 @@
-👋 Hello there! I'm Khalid 👨‍💻
+👋🏾 Hello there! I'm Khalid 👨🏾‍💻
 =========================================
 
 💻 Developer
