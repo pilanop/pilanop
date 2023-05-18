@@ -31,7 +31,7 @@ Passionate about developing web applications and creating seamless user experien
 📫 Get in Touch
 ---------------
 
-*   LinkedIn: [https://www.linkedin.com/in/khalid-mohammed-1a40a61b5/](https://www.linkedin.com/in/khalid-mohammed-1a40a61b5/)
+*   LinkedIn: [https://www.linkedin.com/in/khalid-yimam/](https://www.linkedin.com/in/khalid-yimam/)
 *   Email: [khalarasta104@gmail.com](mailto:khalarasta104@gmail.com)
 
 <!--
