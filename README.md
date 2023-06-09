@@ -15,7 +15,7 @@ Passionate about developing web applications and creating seamless user experien
 🔭 Currently working on
 -----------------------
 
-*   My class repo at ALX SE: [alx-low\_level\_programming](https://github.com/pilanop/alx-low_level_programming)
+*   My class repo at ALX SE: [alx-higher\_level\_programming](https://github.com/pilanop/alx-higher_level_programming)
 
 🌱 Currently learning
 ---------------------
