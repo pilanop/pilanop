@@ -9,8 +9,8 @@ Passionate about developing web applications and creating seamless user experien
 🚀 Skills and Technologies
 --------------------------
 
-*   **Languages**: JavaScript, C
-*   **Tools**: Git, Vim, Ubuntu, Slack
+*   **Languages**: JavaScript, C, python
+*   **Tools**: Git, Vim(NeoVim), Ubuntu, vscode
 
 🔭 Currently working on
 -----------------------
