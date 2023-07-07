@@ -26,7 +26,7 @@ Passionate about developing web applications and creating seamless user experien
 ---------------
 
 [![Khalid's GitHub stats](https://github-readme-stats.vercel.app/api?username=pilanop&show_icons=true&theme=github_dark_dimmed)](https://github.com/pilanop)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pilanop&theme=discord-old-blurple&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pilanop&theme=discord-old-blurple&hide_border=true&mode=weekly&card_width=467)](https://git.io/streak-stats)
 
 📫 Get in Touch
 ---------------
