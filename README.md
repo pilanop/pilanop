@@ -6,7 +6,7 @@
 
 Passionate about developing web applications and creating seamless user experiences. I'm currently enhancing my skills in Full-Stack development at ALX Learning SE.
 
-🚀 Skills and Technologies
+🍳 Skills and Technologies
 --------------------------
 
 *   **Languages**: JavaScript, C, python
