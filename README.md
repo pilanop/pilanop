@@ -10,12 +10,12 @@ Passionate about developing web applications and creating seamless user experien
 --------------------------
 
 *   **Languages**: JavaScript, C, python
-*   **Tools**: Git, Vim(NeoVim), Ubuntu, vscode
+*   **Tools**: Git, Vim(NeoVim), Ubuntu, vs code
 
 🔭 Currently working on
 -----------------------
 
-*   My class repo at ALX SE: [alx-higher\_level\_programming](https://github.com/pilanop/alx-higher_level_programming)
+*   My class repo at ALX SE: [AirBnB_clone](https://github.com/pilanop/AirBnB_clone)
 
 🌱 Currently learning
 ---------------------
