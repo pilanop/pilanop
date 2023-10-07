@@ -18,17 +18,17 @@ Passionate about developing web applications and creating seamless user experien
 *   My class repo at ALX SE: [AirBnB_clone](https://github.com/pilanop/AirBnB_clone)
 
 🌱 Currently learning
----------------------
+--------------------
 
 *   Software Engineering at ALX-Africa
 
 📈 GitHub Stats
----------------
+--------------
 
 [![Khalid's GitHub stats](https://github-readme-stats.vercel.app/api?username=pilanop&show_icons=true&theme=github_dark_dimmed)](https://github.com/pilanop)
 
 📫 Get in Touch
----------------
+--------------
 
 *   LinkedIn: [https://www.linkedin.com/in/khalid-yimam/](https://www.linkedin.com/in/khalid-yimam/)
 *   Email: [khalarasta104@gmail.com](mailto:khalarasta104@gmail.com)
