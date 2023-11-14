@@ -15,7 +15,7 @@ Passionate about developing web applications and creating seamless user experien
 🔭 Currently working on
 -----------------------
 
-*   My class repo at ALX SE: [AirBnB_clone v4](https://github.com/pilanop/AirBnB_clone)
+*   My class repo at ALX SE: [AirBnB_clone v4](https://github.com/pilanop/AirBnB_clone_v4)
 
 🌱 Currently learning
 --------------------
