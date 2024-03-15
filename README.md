@@ -9,18 +9,20 @@ Passionate about developing web applications and creating seamless user experien
 🍳 Skills and Technologies
 --------------------------
 
-*   **Languages**: JavaScript, C, python
+*   **Languages**: Python 🐍, JavaScript, C, 
 *   **Tools**: Git, Vim(NeoVim), Ubuntu, vs code
 
 🔭 Currently working on
 -----------------------
 
-*   My class repo at ALX SE: [AirBnB_clone v4](https://github.com/pilanop/AirBnB_clone_v4)
+*   My class projects at ALX SE
+*   A2SV Community questions
 
 🌱 Currently learning
 --------------------
 
 *   Software Engineering at ALX-Africa
+*   DSA at A2SV Community 
 
 📈 GitHub Stats
 --------------
