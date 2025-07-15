@@ -1,33 +1,6 @@
 👋🏾 Hello there! I'm Khalid
 =========================================
 
-💻 Developer
------------------------
-
-Passionate about developing web applications and creating seamless user experiences. I'm currently enhancing my skills in Full-Stack development at ALX Learning SE.
-
-🍳 Skills and Technologies
---------------------------
-
-*   **Languages**: Python 🐍, JavaScript, C, 
-*   **Tools**: Git, Vim(NeoVim), Ubuntu, vs code
-
-🔭 Currently working on
------------------------
-
-*   My class projects at ALX SE
-*   A2SV Community questions
-
-🌱 Currently learning
---------------------
-
-*   Software Engineering at ALX-Africa
-*   DSA at A2SV Community 
-
-📈 GitHub Stats
---------------
-
-[![Khalid's GitHub stats](https://github-readme-stats.vercel.app/api?username=pilanop&show_icons=true&theme=github_dark_dimmed)](https://github.com/pilanop)
 
 📫 Get in Touch
 --------------
@@ -48,4 +21,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+📈 GitHub Stats
+--------------
+
+[![Khalid's GitHub stats](https://github-readme-stats.vercel.app/api?username=pilanop&show_icons=true&theme=github_dark_dimmed)](https://github.com/pilanop)
 -->
