@@ -8,6 +8,8 @@
 *   LinkedIn: [https://www.linkedin.com/in/khalid-yimam/](https://www.linkedin.com/in/khalid-yimam/)
 *   Email: [khalarasta104@gmail.com](mailto:khalarasta104@gmail.com)
 
+[Site](https://www.pilanop.tech)
+
 <!--
 **pilanop/pilanop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
